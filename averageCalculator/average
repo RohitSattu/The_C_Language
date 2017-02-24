@@ -16,6 +16,6 @@ int main(int argc, char *argv[]) {
                 }
                 printf("The average is %.1f\n", (ave/(argc - 1)));
         } else {
-                printf("Need at-least 2 arguments.\nUsage: average arg1 arg2 arg3 ....\n");
+                printf("Need at-least 2 arguments.\nUsage: a.out arg1 arg2 arg3 ....\n");
         }
 }
