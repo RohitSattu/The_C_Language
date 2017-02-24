@@ -46,7 +46,7 @@ void bubbleSort(float *array, int size) {
                 for (j = 0; j < (size - i - 1); ++j) {
                         /* compare adjacent elements */
                         if (*(array + j)  > *(array + j + 1)) {
-                                /* swap if not in order */
+                                /* swap if not in ascending order */
                                 swap((array + j), (array + j + 1));
                         }
                 }
