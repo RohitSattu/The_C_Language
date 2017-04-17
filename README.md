@@ -1,5 +1,5 @@
 # The C Programming Language
-This repository contains source code to some of the course projects that I worked on at York University.
+This repository contains some files written in C language.
 
 # calculator
 - averageCalculator takes two or more integers as arguments and calculates average of those numbers.
